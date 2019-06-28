@@ -52,15 +52,18 @@ SECRETS_YAML='/config/secrets.yaml'
 
 #LANGUAGE="de-DE"
 #LANGUAGE="en-GB"
-LANGUAGE="en-US"
+#LANGUAGE="en-US"
+LANGUAGE="en-AU"
 
 #AMAZON='amazon.de'
 #AMAZON='amazon.co.uk'
-AMAZON='amazon.com'
+#AMAZON='amazon.com'
+AMAZON='amazon.com.au'
 
 #ALEXA='layla.amazon.de'
 #ALEXA='layla.amazon.co.uk'
-ALEXA='pitangui.amazon.com'
+#ALEXA='pitangui.amazon.com'
+ALEXA='alexa.amazon.com.au'
 
 # binaries
 CURL='/usr/bin/curl'
